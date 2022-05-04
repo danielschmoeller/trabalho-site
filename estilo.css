@@ -1,0 +1,14 @@
+:root {
+    --azul: #4EA8DE;
+    --vermelho: #7400B8;
+    --goog; 10px;
+}
+
+div {
+    border: var(--goog);
+    color: var(--vermelho);
+}
+
+body {
+    background-color: var(--azul);
+}
